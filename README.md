@@ -1,3 +1,3 @@
-React Tiles app.
+React-redux Tiles app.
 CC
-converting to React.js project
+converting to REDUXt

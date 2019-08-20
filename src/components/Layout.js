@@ -30,7 +30,7 @@ export default class Layout extends Component {
       cards: false,
       pairName: '',
       rule: '',
-      show: false,
+      show: true,
       history: [],
       input1: 'GJ3',
       input2: 'GJ6',

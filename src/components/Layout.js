@@ -27,7 +27,7 @@ export default class Layout extends Component {
       //needs empty spots for when (mounting) <Hands hand1={this.state.hand[0].img} /> else error since hand[0] doesnt exist.
       start: true,
       hand: ["", "", "", ""],
-      cards: false,
+      cards: true,
       pairName: '',
       rule: '',
       show: true,
